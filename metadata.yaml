@@ -1,0 +1,35 @@
+_repo: Memoirs-of-the-Court-of-Queen-Elizabeth_21500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aikin, Lucy
+    alias: Godolphin, Mary
+    birthdate: 1781
+    deathdate: 1864
+    gutenberg_agent_id: '2157'
+    url: http://www.gutenberg.org/2009/agents/2157
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Aikin
+description: This book gives us an in depth look at the court of Queen Elizabeth I
+  from birth to death. Widely acclaimed to be one of the most accurate accounts, it
+  features letters, quotes and even sonnets from all the leading people of the day.
+  The intrigues and deceits are written about in great detail - A gripping classic
+  read from AUK's Revisited series.
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elizabeth I, Queen of England, 1533-1603 -- Relations with courts and courtiers'
+- !lcsh 'Great Britain -- Court and courtiers -- History -- 16th century'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603'
+title: Memoirs of the Court of Queen Elizabeth
+url: http://www.gutenberg.org/ebooks/21500
